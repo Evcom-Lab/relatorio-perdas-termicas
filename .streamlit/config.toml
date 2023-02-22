@@ -1,0 +1,11 @@
+[server]
+port=8517
+headless=true
+maxUploadSize = 400
+enableWebsocketCompression = false
+maxMessageSize = 500
+
+
+[browser]
+serverAddress = "localhost"
+serverPort = 8517
